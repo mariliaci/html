@@ -16,6 +16,7 @@ const Cadastro = ()=> {
         event.preventDefault();
     }
     
+    
     return(
         <form action="">
         <label for="Placa do veículo">Placa do veículo</label>
